@@ -18,4 +18,4 @@ So, how did they get here? A big part of their success story is data – collect
 
 **Dataset**
 
-Let's inspect our dataset. The dataset offers a comprehensive overview of the vehicle insurance landscape, providing insights into customer preferences, dealership networks, financing options, and insurance policy choices. This dataset can be valuable for analysing trends in vehicle insurance, assessing regional variations in vehicle sales and insurance coverages, and understanding consumer behavior in the vehicle insurance market. 
+The dataset offers a comprehensive overview of the vehicle insurance landscape, providing insights into customer preferences, dealership networks, financing options, and insurance policy choices. This dataset can be valuable for analysing trends in vehicle insurance, assessing regional variations in vehicle sales and insurance coverages, and understanding consumer behavior in the vehicle insurance market. 
